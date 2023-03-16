@@ -1,0 +1,19 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* common css */
+@import './Styles/Common.css';
+
+
+
+.bgColor {
+  background: #FBF9F4;
+}
+
+img{
+  width: 100%;
+}
+
